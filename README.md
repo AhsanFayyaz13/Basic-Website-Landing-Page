@@ -1,6 +1,6 @@
 # Interactive Navigation Menu
 
-![Project Preview](Screenshot_PRODIGY_WD_01 .png) 
+![Project Preview](./Screenshot_PRODIGY_WD_01 .png) 
 
 A simple responsive navigation bar that changes style on scroll and hover. Built with HTML, CSS, and vanilla JavaScript.
 
